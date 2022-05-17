@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M00NLady
 - 👀 I’m interested in Defi, Art & Ocean Conservation.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently studying smart contract writing.
 - 💞️ I’m looking to collaborate on Blockchain Game Development.
 - 📫 How to reach me moonlady.ust@gmail.com
 
